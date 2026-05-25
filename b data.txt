@@ -1,0 +1,132 @@
+{message: 'Login successful', token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5Y…zg4fQ.M3ZO9nrc-TZHar2mD9qev-1zw-pWFkjiJ6MNV3hgctw', user: {…}}
+message
+: 
+"Login successful"
+token
+: 
+"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YmU2NTdmYjIzMWQ4ODZhMDkzOTc0MSIsImlhdCI6MTc3NTczNjk4OCwiZXhwIjoxNzc2MzQxNzg4fQ.M3ZO9nrc-TZHar2mD9qev-1zw-pWFkjiJ6MNV3hgctw"
+user
+: 
+FullName
+: 
+"Vaibhav Garg"
+PhoneNo
+: 
+"9457393680"
+email
+: 
+"vaibhavgarg@gmail.com"
+id
+: 
+"69be657fb231d886a0939741"
+[[Prototype]]
+: 
+Object
+constructor
+: 
+ƒ Object()
+hasOwnProperty
+: 
+ƒ hasOwnProperty()
+isPrototypeOf
+: 
+ƒ isPrototypeOf()
+propertyIsEnumerable
+: 
+ƒ propertyIsEnumerable()
+toLocaleString
+: 
+ƒ toLocaleString()
+toString
+: 
+ƒ toString()
+valueOf
+: 
+ƒ valueOf()
+__defineGetter__
+: 
+ƒ __defineGetter__()
+__defineSetter__
+: 
+ƒ __defineSetter__()
+__lookupGetter__
+: 
+ƒ __lookupGetter__()
+__lookupSetter__
+: 
+ƒ __lookupSetter__()
+__proto__
+: 
+(...)
+get __proto__
+: 
+ƒ __proto__()
+set __proto__
+: 
+ƒ __proto__()
+[[Prototype]]
+: 
+Object
+constructor
+: 
+ƒ Object()
+hasOwnProperty
+: 
+ƒ hasOwnProperty()
+isPrototypeOf
+: 
+ƒ isPrototypeOf()
+propertyIsEnumerable
+: 
+ƒ propertyIsEnumerable()
+toLocaleString
+: 
+ƒ toLocaleString()
+toString
+: 
+ƒ toString()
+valueOf
+: 
+ƒ valueOf()
+__defineGetter__
+: 
+ƒ __defineGetter__()
+__defineSetter__
+: 
+ƒ __defineSetter__()
+__lookupGetter__
+: 
+ƒ __lookupGetter__()
+__lookupSetter__
+: 
+ƒ __lookupSetter__()
+__proto__
+: 
+(...)
+get __proto__
+: 
+ƒ __proto__()
+set __proto__
+: 
+ƒ __proto__()
+
+profilePic link is https://res.cloudinary.com/dnznmiq2e/image/upload/v1775544583/ProfilePic/mwzffsruzikn2rwqiwiv.png
+
+
+
+{
+  _id: new ObjectId('69be657fb231d886a0939741'),
+  FullName: 'Vaibhav Garg',
+  email: 'vaibhavgarg@gmail.com',
+  PhoneNo: '9457393680',
+  password: '$2b$10$PacdBPJL.qdVro3G3ururO78HkzyE8.8tRRkbnVAHYv6ro8m52YiS',
+  Bio: 'Hey I am Vaibhav Garg',
+  ProfilePic: 'https://res.cloudinary.com/dnznmiq2e/image/upload/v1775544583/ProfilePic/mwzffsruzikn2rwqiwiv.png',
+  City: 'Meerut',
+  isOnboarded: true,
+  Dost: [],
+  status: 'offline',
+  createdAt: 2026-03-21T09:31:43.665Z,
+  updatedAt: 2026-04-07T06:49:45.279Z,
+  __v: 0
+}
